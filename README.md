@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Sreenath. A Master's Graduate in Computer Simulation in Science at the Bergische Universität Wuppertal. I have gained experience as a software engineer with experience in developing scalable applications using modern technologies. I am passionate about coding and enjoy working on challenging projects.<br><br>My skills focus on Computer Vision, Artificial Intelligence, Computer Vision, Software Development, Computer Simulation and Robotics, complemented by a solid Software Engineering mindset.<br><br>My knack for communication and experience in training and customer interaction has equipped me with strong interpersonal skills. I'm on a perpetual quest for knowledge and growth, making my ideal workplace one that nurtures continuous learning and offers boundless opportunities for personal and professional development.<br><br>​Let's embark on this journey of innovation together.
+Hi, I’m Sreenath. A Master's Graduate in Computer Simulation. I have gained experience as a software engineer with experience in developing scalable applications using modern technologies. I am passionate about coding and enjoy working on challenging projects.<br><br>My skills focus on Computer Vision, Artificial Intelligence, Computer Vision, Software Development, Computer Simulation and Robotics, complemented by a solid Software Engineering mindset.<br><br>My knack for communication and experience in training and customer interaction has equipped me with strong interpersonal skills. I'm on a perpetual quest for knowledge and growth, making my ideal workplace one that nurtures continuous learning and offers boundless opportunities for personal and professional development.<br><br>​Let's embark on this journey of innovation together.
 
 
 # 💻 Tech Stack:
@@ -11,7 +11,6 @@ Hi, I’m Sreenath. A Master's Graduate in Computer Simulation in Science at the
  
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sree0211&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sree0211&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sree0211&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
@@ -19,5 +18,3 @@ Hi, I’m Sreenath. A Master's Graduate in Computer Simulation in Science at the
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Sree0211&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
