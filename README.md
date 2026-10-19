@@ -16,7 +16,6 @@ Hi, I’m Sreenath. A Master's Graduate in Computer Simulation. I have gained ex
 ### 🤝 Contributions
 
 - **[Point Cloud Library (PCL) — Merged Pull Request #6488](https://github.com/PointCloudLibrary/pcl/pull/6488)** 🎉
-  - My first merged contribution to an open-source project.
   - Contributed to [PointCloudLibrary/pcl](https://github.com/PointCloudLibrary/pcl), a C++ library for 3D point-cloud processing.
 
 ---
