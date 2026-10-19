@@ -20,8 +20,4 @@ Hi, I’m Sreenath. A Master's Graduate in Computer Simulation. I have gained ex
   - Contributed to [PointCloudLibrary/pcl](https://github.com/PointCloudLibrary/pcl), a C++ library for 3D point-cloud processing.
 
 ---
-
-
-
----
 [![](https://visitcount.itsvg.in/api?id=Sree0211&icon=0&color=0)](https://visitcount.itsvg.in)
